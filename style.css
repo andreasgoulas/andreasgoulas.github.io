@@ -39,11 +39,11 @@ h1, h2, h3 {
 }
 
 .pub-venue {
-  color: #777;
   font-style: italic;
 }
 
 .pub-note {
+  font-weight: 600;
   color: #7a5c00;
 }
 
