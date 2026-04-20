@@ -29,6 +29,20 @@ h1, h2, h3 {
   margin: 0 auto;
 }
 
+.pub-title {
+  font-weight: 600;
+  font-size: 1.02rem;
+}
+
+.pub-authors {
+  color: #444;
+}
+
+.pub-venue {
+  color: #777;
+  font-style: italic;
+}
+
 ol li {
   margin-bottom: 0.75em;
 }
