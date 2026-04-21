@@ -30,12 +30,10 @@ h1, h2, h3 {
 }
 
 .pub-title {
-  font-weight: bold;
-  font-size: 1.02rem;
+  font-weight: 700;
 }
 
 .pub-authors {
-  color: #444;
 }
 
 .pub-venue {
@@ -43,8 +41,7 @@ h1, h2, h3 {
 }
 
 .pub-note {
-  font-weight: 600;
-  color: #7a5c00;
+  color: red;
 }
 
 ol li {
